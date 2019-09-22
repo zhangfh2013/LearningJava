@@ -1,4 +1,4 @@
-package com.logcabin.zz;
+package com.demo.boot;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
